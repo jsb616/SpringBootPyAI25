@@ -11,6 +11,8 @@ IDE 설치 : https://www.jetbrains.com/ko-kr/pycharm/download/?section=windows -
 
 https://wikidocs.net/book/8531
 
+https://velog.io/@slobber/%EB%8F%99%EA%B8%B0%EC%99%80-%EB%B9%84%EB%8F%99%EA%B8%B0%EC%9D%98-%EC%B0%A8%EC%9D%B4 <- 동기와 비동기의 차이점
+
 FastAPI설치 : pip install fastapi uvicorn uvicorn : ASGI(Asynchronus Server Gateway Iterface)는 파이썬에서 비동기 웹서버와 웹 애플리케이션 간의 인터페이스 표준 AGSI는 기존 WSGI(Web Server Gateway Interface)의 비동기 버전으로, 파이썬에서 비동기 처리를 지원하는 웹 애플리케이션을 구축하기 위함 https://velog.io/@hwaya2828/WSGI-ASGI
 
 ASGI 특징
